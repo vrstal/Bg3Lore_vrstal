@@ -1,11 +1,8 @@
 // Unique book tables
 new treasuretable "UNQ_BGL_Books"
 new subtable "1,1"
-object category "BGL_Diaries",1,0,0,0,0,0,0,0
-
-new treasuretable "UNQ_BGL_Books"
-new subtable "1,1"
 object category "BGL_Prayers",1,0,0,0,0,0,0,0
+
 
 // Themed book tables
 new treasuretable "UniqueBooks"
@@ -31,19 +28,6 @@ new treasuretable "GEN_Book_Uncommon_Races"
 CanMerge 1
 new subtable "1,1"
 object category "T_UNQ_BGL_Books" ,1,0,0,0,0,0,0,0
-
-
-// GIMB journal entries table
-new treasuretable "GIMB_TT_Journal_Entries"
-CanMerge 1
-new subtable "-1"
-object category "I_GIMB_BookOne_Myself" ,1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_GIMB_BookTwo_Mountain" ,1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_GIMB_BookThree_Grief" ,1,0,0,0,0,0,0,0
-new subtable "-1"
-object category "I_GIMB_BookFour_Recognition" ,1,0,0,0,0,0,0,0
 
 
 // In-world vendors, in rough order of acts 1-3

@@ -81,7 +81,27 @@
           <attribute id="ExtraData" type="LSString" value=""/>
           <attribute id="Stub" type="bool" value="False"/>
         </node>        
-
+		<node id="TranslatedStringKey">
+          <attribute id="Content" type="TranslatedString" handle="h43050b60g1df5g407egb07aga2d2c4a91884" value=""/> 
+          <attribute id="UUID" type="FixedString" value="Mie_Prayer"/> 
+          <attribute id="Speaker" type="FixedString" value="NOTUSED"/>
+          <attribute id="ExtraData" type="LSString" value=""/>
+          <attribute id="Stub" type="bool" value="False"/>
+        </node> 
+        <node id="TranslatedStringKey">
+          <attribute id="Content" type="TranslatedString" handle="h6cf12c75g064ag4ff2gb1fbg75d41cfb25e8" value=""/> <!--NEWHANDLE2 from our loca-->
+          <attribute id="UUID" type="FixedString" value="Bah_Prayer"/> <!-- EX : GTZ_Stardock_D, BGL_Book_A Used inside root template for book-->
+          <attribute id="Speaker" type="FixedString" value="NOTUSED"/>
+          <attribute id="ExtraData" type="LSString" value=""/>
+          <attribute id="Stub" type="bool" value="False"/>
+        </node> 
+        <node id="TranslatedStringKey">
+          <attribute id="Content" type="TranslatedString" handle="h4244aefeg8e81g409eg85cfg6f40eca40c09" value=""/>
+          <attribute id="UUID" type="FixedString" value="Cor_Prayer"/> <!-- EX : GTZ_Stardock_D, BGL_Book_A Used inside root template for book-->
+          <attribute id="Speaker" type="FixedString" value="NOTUSED"/>
+          <attribute id="ExtraData" type="LSString" value=""/>
+          <attribute id="Stub" type="bool" value="False"/>
+        </node> 
         <!--EXAMPLE TEMPLATE-->
         <node id="TranslatedStringKey">
           <attribute id="Content" type="TranslatedString" handle="NEWHANDLE2" value=""/>

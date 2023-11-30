@@ -1,0 +1,49 @@
+new entry "BOOK_Mie_Prayer"
+type "Object"
+using "OBJ_Book"
+data "RootTemplate" "5a3e6e16-9ec7-496b-9c9e-4c32e45515d2"
+data "ObjectCategory" "BGL_Prayers"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+
+new entry "BOOK_Bah_Prayer"
+type "Object"
+using "OBJ_Book"
+data "RootTemplate" "5bbc6a35-545b-467e-ac49-7642a9a86d53"
+data "ObjectCategory" "BGL_Prayers"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+
+new entry "BOOK_Cor_Prayer"
+type "Object"
+using "OBJ_Book"
+data "RootTemplate" "b6432bf1-aaaa-47b5-b812-71fcffd3ae24"
+data "ObjectCategory" "BGL_Prayers"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+
+//Template book
+new entry "BOOKNAME"
+type "Object"
+using "OBJ_Book"
+data "RootTemplate" "NEWUUID1"
+data "ObjectCategory" "BGL_Book"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+
+//Head start, be kind and add more after you use templates
+
+//COPY ME AND EDIT
+new entry "BOOKNAME"
+type "Object"
+using "OBJ_Book"
+data "RootTemplate" "NEWUUID1"
+data "ObjectCategory" "BGL_Book"
+data "MinAmount" "1"
+data "MaxAmount" "1"
+data "Priority" "1"
+//COPY ME AND EDIT
